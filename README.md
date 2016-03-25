@@ -1,9 +1,17 @@
 # aula-git
 
 
-git init
-git add README.md
-git commit -m "first commit"
+* Criei o novo repositório *aula-git* no github
+
+* Criei a pasta localmente e o arquivo *README.md*
+
+* No Git Bash iniciei o projeto através do comando:
+
+`git init`
+
+* Adicionei o arquivo e realizei o commit através do comando:
+ 
+`git commit -a -m "Primeiro commit"`
 
 * Vinculei o diretório local com o diretório remoto
 
