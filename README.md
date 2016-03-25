@@ -1,9 +1,9 @@
 # aula-git
 
 
-* Criei o novo repositório *aula-git* no github
+* Criei o novo repositório **aula-git** no github
 
-* Criei a pasta localmente e o arquivo *README.md*
+* Criei a pasta localmente e o arquivo **README.md**
 
 * No Git Bash iniciei o projeto através do comando:
 
